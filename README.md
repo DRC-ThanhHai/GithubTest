@@ -5,7 +5,7 @@
 - It would be used for testing.
 
 ## Prerequisites
-###What will you need
+### What will you need
 *Hardware
 - A Raspberry Pi computer with an SD card or micro SD card
 - A monitor with a cable (and, if needed, an HDMI adaptor)
