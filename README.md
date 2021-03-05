@@ -18,8 +18,8 @@
 - VLC media player
 
 ## Set-up 
-*### Set up for Raspberry Pi 4
+### Set up for Raspberry Pi 4
 If you are new to Raspberry Pi, you should visit Getting started with Raspberry PI (https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started)
 
-*### Install VLC media player
+### Install VLC media player
 1. Before we go ahead and install VLC, we must first ensure our RPI is entirely up to date
