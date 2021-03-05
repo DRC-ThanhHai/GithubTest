@@ -23,3 +23,6 @@ If you are new to Raspberry Pi, you should visit Getting started with Raspberry 
 
 ### Install VLC media player
 1. Before we go ahead and install VLC, we must first ensure our RPI is entirely up to date
+#### Terminal $
+    sudo apt update
+    sudo apt upgrade
