@@ -57,6 +57,14 @@ If you are new to Raspberry Pi, you should visit Getting started with Raspberry 
 - To confirm this change, you will need to click the “OK” button within 10 seconds.
 ![image](https://user-images.githubusercontent.com/80090701/110094821-d4b07080-7dce-11eb-9a85-078ed0961175.png)
 
+Note: You also need to enable output resolution 4k for your RPI 4. Just RPI 4 supported 4k resolution
+#### Terminal 
+    sudo raspi-config
+- Move to "Advanced Option" and hit Enter
+- Move to "A8 HDMI/ Composite" and hit Enter
+- Move to "V1 Enable 4Kp60 ...." and hit Enter
+- You will see a report "4Kp60 is enable in HDMI0"
+
 ### 3. Make a bash script
 - Move to the new folder
 - Right-click and click "New File". Rename the file to whaterver you want. I have named it 'test_loop_4k.sh'
@@ -93,10 +101,12 @@ The way below is in my case.
 -You can reboot your RPI to see what happened.
 #### Teminal $
     sudo reboot
-    
+
+## Note
+- My project work with 4k-video with H624 codec, H625 codec
+
 ## Adding Contributions
 If you want to contribute to my project, just make a 'pull request'
-
 
 ## References
 1. https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started
