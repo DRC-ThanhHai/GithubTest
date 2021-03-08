@@ -1,7 +1,7 @@
 # Readme
 
 ## Intro
-- This project is about making an auto-play 4k video loop on Raspberry Pi 4 at start-up. Which means, when you start a Raspberry Pi 4 or reboot it, a 4k video will be automnatically play. 
+- This project is about making an auto-play 4k video loop on Raspberry Pi 4 at start up. Which means, when you start a Raspberry Pi 4 or reboot it, a 4k video will be automnatically play. 
 - It would be used for testing.
 
 ## Prerequisites
@@ -86,8 +86,8 @@ Note: You also need to enable output resolution 4k for your RPI 4. Just RPI 4 su
 #### RESULT 
 You can see a video loop when execute bash script
 
-### 6. Make a script auto-run when start-up
-There are many ways to make a program or a scipt auto-run when start-up.
+### 6. Make a script auto-run when start up
+There are many ways to make a program or a scipt auto-run when start up.
 The way below is in my case.
 #### Terminal $
     sudo nano /home/pi/.bashrc
