@@ -106,7 +106,7 @@ The way below is in my case.
 - My project work with 4k-video with H624 codec, H625 codec
 
 ## Adding Contributions
-If you want to contribute to my project, just make a 'pull request'
+If you want to help me doing better on my project, just make a 'pull request'
 
 ## References
 1. https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started
