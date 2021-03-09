@@ -107,7 +107,8 @@ The way below is in my case.
     sudo reboot
 
 ## Note
-- My project work with 4k-video with H624 codec, H625 codec
+- My project works with 4k-video with H264 codec, not really stable with H265 codec
+- Some videos would perform lagg and I'm trying to fix that
 
 ## Adding Contributions
 If you want to help me doing better on my project, just make a 'pull request'
