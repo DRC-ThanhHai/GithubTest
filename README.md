@@ -45,16 +45,20 @@ If you are new to Raspberry Pi, you should visit Getting started with Raspberry 
 
 ### 2. Setting a screen resolution to 4K (optional)
 - While on the desktop interface of your Raspberry Pi, click the icon in the top-left hand corner of the screen.
+
 ![image](https://user-images.githubusercontent.com/80090701/110094503-7aafab00-7dce-11eb-8101-1196eb4c0451.png)
 - Within the start menu, hover over “Preferences“. Then click “Screen Configuration” to load the tool that we are after.
+
 ![image](https://user-images.githubusercontent.com/80090701/110094582-9024d500-7dce-11eb-9a05-bba2ce12e4b8.png)
 - With the tool loaded on our Raspberry  Pi, we can use it to change the resolution.
 * First, you need to right-click the display that you want to modify the resolution of (1.).
 * Next, hover over “Resolution” (2.).
 * Hovering over this will show you a selection of resolutions you can set for this current display. To select a resolution, click the one you want (3.)
 * Once you have chosen the resolution that you wish to use, you need to apply it by clicking the green tick button (4.)
+
 ![image](https://user-images.githubusercontent.com/80090701/110094759-c19da080-7dce-11eb-9a33-dcc594975726.png)
 - To confirm this change, you will need to click the “OK” button within 10 seconds.
+
 ![image](https://user-images.githubusercontent.com/80090701/110094821-d4b07080-7dce-11eb-9a85-078ed0961175.png)
 
 Note: You also need to enable output resolution 4k for your RPI 4. Just RPI 4 supported 4k resolution
